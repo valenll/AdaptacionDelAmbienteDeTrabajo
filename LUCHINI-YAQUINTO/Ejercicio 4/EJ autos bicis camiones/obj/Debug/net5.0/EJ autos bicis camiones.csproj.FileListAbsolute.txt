@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\EJ autos bicis camiones.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\EJ autos bicis camiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\EJ autos bicis camiones.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\EJ autos bicis camiones.AssemblyInfo.cs
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\EJ autos bicis camiones.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\bin\Debug\net5.0\EJ autos bicis camiones.exe
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\bin\Debug\net5.0\EJ autos bicis camiones.deps.json
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\bin\Debug\net5.0\EJ autos bicis camiones.runtimeconfig.json
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\bin\Debug\net5.0\EJ autos bicis camiones.runtimeconfig.dev.json
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\bin\Debug\net5.0\EJ autos bicis camiones.dll
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\bin\Debug\net5.0\ref\EJ autos bicis camiones.dll
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\bin\Debug\net5.0\EJ autos bicis camiones.pdb
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\EJ autos bicis camiones.dll
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\ref\EJ autos bicis camiones.dll
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\EJ autos bicis camiones.pdb
+C:\Users\Punto Digital\source\repos\EJ autos bicis camiones\EJ autos bicis camiones\obj\Debug\net5.0\EJ autos bicis camiones.genruntimeconfig.cache
