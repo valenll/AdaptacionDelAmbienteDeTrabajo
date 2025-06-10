@@ -1,0 +1,15 @@
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\bin\Debug\net5.0\Sanatorio-Gestion.exe
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\bin\Debug\net5.0\Sanatorio-Gestion.deps.json
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\bin\Debug\net5.0\Sanatorio-Gestion.runtimeconfig.json
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\bin\Debug\net5.0\Sanatorio-Gestion.runtimeconfig.dev.json
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\bin\Debug\net5.0\Sanatorio-Gestion.dll
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\bin\Debug\net5.0\ref\Sanatorio-Gestion.dll
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\bin\Debug\net5.0\Sanatorio-Gestion.pdb
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\obj\Debug\net5.0\Sanatorio-Gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\obj\Debug\net5.0\Sanatorio-Gestion.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\obj\Debug\net5.0\Sanatorio-Gestion.AssemblyInfo.cs
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\obj\Debug\net5.0\Sanatorio-Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\obj\Debug\net5.0\Sanatorio-Gestion.dll
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\obj\Debug\net5.0\ref\Sanatorio-Gestion.dll
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\obj\Debug\net5.0\Sanatorio-Gestion.pdb
+C:\Users\Punto Digital\source\repos\Sanatorio-Gestion\Sanatorio-Gestion\obj\Debug\net5.0\Sanatorio-Gestion.genruntimeconfig.cache
